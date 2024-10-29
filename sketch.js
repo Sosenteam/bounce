@@ -5,7 +5,7 @@ let currentColor; // Store the current color
 
 function preload() {
   // Load the image
-  dvdImage = loadImage('newnew.png');
+  dvdImage = loadImage("https://github.com/Sosenteam/bounce/blob/main/image.png?raw=true");
 }
 
 function setup() {
